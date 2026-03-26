@@ -1,3 +1,4 @@
+/*
 package game.snakeladder;
 import java.util.*;
 
@@ -163,3 +164,4 @@ class Dice {
         return random.nextInt(6) + 1;
     }
 }
+*/

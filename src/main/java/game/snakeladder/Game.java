@@ -66,7 +66,7 @@ public class Game {
                 System.out.println(player.getName() + " at " + newPos);
 
                 if (newPos == board.getSize()) {
-                    System.out.println("🎉 " + player.getName() + " wins!");
+                    System.out.println(player.getName() + " wins!");
                     gameEnded = true;
                     break;
                 }

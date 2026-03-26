@@ -5,7 +5,7 @@ public class Dice {
     private Random random;
 
     public Dice() {
-        this.random = new Random(); // Java 21 compatible
+        this.random = new Random();
     }
 
     public int roll() {
